@@ -1,0 +1,29 @@
+{
+  "condition_sources": [
+    {
+      "LP1": 0.0,
+      "csv": "/Users/jialeshi/Projects/LNP_IM/TIP3_O_Graph/tip3_o_degree_top10_vs_rank450_301_400_LP1_0_first100frames_for_collaborators.csv"
+    },
+    {
+      "LP1": 16.0,
+      "csv": "/Users/jialeshi/Projects/LNP_IM/TIP3_O_Graph/tip3_o_degree_top10_vs_rank450_301_400_LP1_16_first100frames_for_collaborators.csv"
+    },
+    {
+      "LP1": 32.0,
+      "csv": "/Users/jialeshi/Projects/LNP_IM/TIP3_O_Graph/tip3_o_degree_top10_vs_rank450_301_400_LP1_32_first100frames_for_collaborators.csv"
+    },
+    {
+      "LP1": 48.0,
+      "csv": "/Users/jialeshi/Projects/LNP_IM/TIP3_O_Graph/tip3_o_degree_top10_vs_rank450_301_400_LP1_48_first100frames_for_collaborators.csv"
+    },
+    {
+      "LP1": 64.0,
+      "csv": "/Users/jialeshi/Projects/LNP_IM/TIP3_O_Graph/tip3_o_degree_top10_vs_rank450_301_400_LP1_64_first100frames_for_collaborators.csv"
+    }
+  ],
+  "num_rows": 50000,
+  "num_train_rows": 45000,
+  "num_validation_rows": 5000,
+  "seed": 7,
+  "device": "cpu"
+}
